@@ -236,7 +236,7 @@ On two V100 GPU, we get following results:
 If you find SEA useful for your research or development, please cite the following papers: [SEA](https://arxiv.org/abs/2208.11271).
 
 ```
-@inproceedings{tian2023eulernet,
+@inproceedings{hu2024sea,
   title = {Tackling Long Code Search with Splitting, Encoding, and Aggregating},
   author = {Fan Hu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Xirong Li},
   booktitle = {LREC-COLING},
